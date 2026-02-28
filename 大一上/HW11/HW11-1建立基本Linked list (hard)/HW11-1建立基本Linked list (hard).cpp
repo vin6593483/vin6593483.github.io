@@ -17,4 +17,5 @@ int main(void) {
 	}
 	cout << "NULL";
 	return 0;
+
 }
