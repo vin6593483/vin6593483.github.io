@@ -13,4 +13,5 @@ int main(void) {
 	c = (s % 3600) % 60;
 	cout << a << ":" << b << ":" << c;
 	return 0;
+
 }
