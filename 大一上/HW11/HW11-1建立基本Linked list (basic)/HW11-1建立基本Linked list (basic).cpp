@@ -18,4 +18,5 @@ int main(void) {
 	}
 	cout << "NULL" << endl;
 	return 0;
+
 }
