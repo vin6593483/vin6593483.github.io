@@ -34,4 +34,5 @@ int main(void) {
 	cout << min(&s1) << " ";
 	cout << avg(&s1) << endl;
 	return 0;
+
 }
