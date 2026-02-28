@@ -72,4 +72,5 @@ int main() {
 	show(class1);
 	system("pause");
 	return 0;
+
 }
