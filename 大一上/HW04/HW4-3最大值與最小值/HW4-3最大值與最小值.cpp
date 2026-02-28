@@ -19,4 +19,5 @@ int main(void) {
 	cout << "max:" << max << "\n";
 	cout << "min:" << min << "\n";
 	return 0;
+
 }
