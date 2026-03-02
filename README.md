@@ -1,11 +1,25 @@
-# 📘 大一上：C++ 程式設計實作全輯
+# 🎓 C++ 程式設計：大一學習實作全輯
 
-這裡是 **逢甲大學通訊工程系** 大一上學期的學習地圖。我將所有作業依照週次整理，並保留了完整的原始碼與邏輯註解。
-
-### 📑 檔案導覽目錄 (絕對路徑測試版)
-
-| 週次 | 實作項目 (點擊跳轉至該作業資料夾) | 技術關鍵字 |
-| :--- | :--- | :--- |
-| **Week 03** | [HW3-1 迴圈整數連加](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-1%E8%BF%B4%E5%9C%88%E6%95%B4%E6%95%B8%E9%80%A3%E5%8A%A0) / [HW3-2 輸出因數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-2%E8%BC%B8%E5%87%BA%E5%9B%A0%E6%95%B8) / [HW3-3 判斷質數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-3%E5%88%A4%E6%96%B7%E8%B3%AA%E6%95%B8) | `for` 迴圈 |
+這裡是 **逢甲大學通訊工程系** 的計概學習紀錄。本倉庫彙整了大一上至大一下的所有 C++ 程式實作，包含詳細的原始碼註解與邏輯說明，我保證此站程式碼皆為本人實作。
 
 ---
+
+## 📂 大一上學期 (2025 Fall)
+> 核心重點：基礎語法、指標操作、動態記憶體與基礎鏈結串列。
+
+| 週次 | 實作項目 (點擊跳轉) | 技術關鍵字 |
+| :--- | :--- | :--- |
+| **Week 03** | [HW3-1 迴圈整數連加](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-1%E8%BF%B4%E5%9C%88%E6%95%B4%E6%95%B8%E9%80%A3%E5%8A%A0) / [HW3-2 輸出因數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-2%E8%BC%B8%E5%87%BA%E5%9B%A0%E6%95%B8) / [HW3-3 判斷質數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-3%E5%88%A4%E6%96%B7%E8%B3%AA%E6%95%B8) | `for` 迴圈 |
+| **Others** | (其餘 Week 04 - Week 13 內容待補充網址後整合) | - |
+
+---
+
+## 📂 大一下學期 (2026 Spring)
+> 核心重點：進階演算法、結構化資料處理與持續實作。
+
+| 週次 / 日期 | 實作項目 (點擊跳轉) | 技術關鍵字 |
+| :--- | :--- | :--- |
+| **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) | 迴圈、`struct` |
+
+---
+*最後更新日期：2026-03-02*
