@@ -6,7 +6,7 @@
 
 ### 📂 檔案類型導覽
 在進入各個作業資料夾後，建議參考以下格式閱讀：
-* **`.md` 檔案**：建議先看！內含解題思路、程式碼邏輯分析與註解。
+* **`.md` 檔案**：建議先看！內含解題思路、程式碼邏輯分析與註解牆。
 * **`.cpp` 檔案**：提供最原始的程式碼，適合直接下載或複製進行編譯測試。
 
 ---
@@ -17,7 +17,9 @@
 | 週次 | 實作項目 (點擊跳轉) | 技術關鍵字 |
 | :--- | :--- | :--- |
 | **Week 03** | [HW3-1 迴圈整數連加](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-1%E8%BF%B4%E5%9C%88%E6%95%B4%E6%95%B8%E9%80%A3%E5%8A%A0) / [HW3-2 輸出因數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-2%E8%BC%B8%E5%87%BA%E5%9B%A0%E6%95%B8) / [HW3-3 判斷質數](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW03/HW3-3%E5%88%A4%E6%96%B7%E8%B3%AA%E6%95%B8) | `for` 迴圈 |
-| **Others** | (其餘 Week 04 - Week 13 內容待補充網址後整合) | - |
+| **Week 04** | [HW4-1 成績判斷](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW04/HW4-1%E6%88%90%E7%B8%BE%E5%88%A4%E6%96%B7) / [HW4-2 陣列加總](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW04/HW4-2%E9%99%A3%E5%88%97%E5%8A%A0%E7%B8%BD) / [HW4-3 最大值與最小值](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW04/HW4-3%E6%9C%80%E5%A4%A7%E5%80%BC%E8%88%87%E6%9C%80%E5%B0%8F%E5%80%BC) / [HW4-4 調換數字](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW04/HW4-4%E8%AA%BF%E6%8F%9B%E6%95%B8%E5%AD%97) | 陣列、條件判斷 |
+| **Week 06** | [HW6-1 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW06/HW6-1%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW6-2 BMI整合系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8A/HW06/HW6-2%20BMI%E6%95%B4%E5%90%88%E7%B3%BB%E7%B5%B1) | `struct` 結構 |
+| **Others** | (其餘 Week 07 - Week 13 內容待補充) | - |
 
 ---
 
