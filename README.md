@@ -33,7 +33,7 @@
 
 | 週次 / 日期 | 實作項目 (點擊跳轉至該作業資料夾) | 技術關鍵字 |
 | :--- | :--- | :--- |
-| **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) | 迴圈、`struct` |
+| **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW1-3 大數乘法 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E5%A4%A7%E6%95%B8%E4%B9%98%E6%B3%95) | 迴圈、`struct`、大數運算 |
 
 ---
 *最後更新日期：2026-03-03*
