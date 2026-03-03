@@ -57,4 +57,5 @@ int main(void) {
 	free(arr2);
 	free(sum);
 	return 0;
+
 }
