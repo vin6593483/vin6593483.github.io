@@ -37,5 +37,5 @@
 | **[HW02 (03/05)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305)** | [HW2-1 屬性身高體重](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-1%20%E5%B1%AC%E6%80%A7%E8%BC%B8%E5%87%BA%E8%BA%AB%E9%AB%98%E9%AB%94%E9%87%8D) / [HW2-2 物件練習_開槍](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-2%20%E7%89%A9%E4%BB%B6%E7%B7%B4%E7%BF%92_%E9%96%8B%E6%A7%8D) / [HW2-3 找字機 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E6%89%BE%E5%AD%97%E6%A9%9F) | `class` 封裝、狀態管理、文本解析 |
 
 ---
-*最後更新日期：2026-03-06*
-**作者: 蝦趴鞋 校稿:天才小陆**
+*最後更新日期：2026-03-06 by 蝦趴鞋*
+*校稿:猫猫不要堵门口*
