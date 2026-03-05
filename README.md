@@ -29,11 +29,12 @@
 ---
 
 ## 📂 大一下學期 (2026 Spring)
-> 核心重點：進階演算法、結構化資料處理與持續實作。
+> 核心重點：物件導向、進階演算法、結構化資料處理。
 
 | 週次 / 日期 | 實作項目 (點擊跳轉至該作業資料夾) | 技術關鍵字 |
 | :--- | :--- | :--- |
-| **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW1-3 大數乘法 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E5%A4%A7%E6%95%B8%E4%B9%98%E6%B3%95) | 迴圈、`struct`、大數運算 |
+| **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW1-3 大數乘法 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E5%A4%A7%E6%95%B8%E4%B9%98%E6%B3%95) | 迴圈、`struct`、大數運算 |
+| **[HW02 (03/05)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305)** | [HW2-1 屬性身高體重](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-1%20%E5%B1%AC%E6%80%A7%E8%BC%B8%E5%87%BA%E8%BA%AB%E9%AB%98%E9%AB%94%E9%87%8D) / [HW2-2 物件練習_開槍](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-2%20%E7%89%A9%E4%BB%B6%E7%B7%B4%E7%BF%92_%E9%96%8B%E6%A7%8D) / [HW2-3 找字機 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E6%89%BE%E5%AD%97%E6%A9%9F) | `class` 封裝、狀態管理、文本解析 |
 
 ---
-*最後更新日期：2026-03-03*
+*最後更新日期：2026-03-06 by 蝦趴鞋*
