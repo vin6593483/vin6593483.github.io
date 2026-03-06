@@ -40,4 +40,4 @@
 *最後更新日期：2026-03-06 by 蝦趴鞋*
 *校稿:猫猫不要堵门口🐈‍⬛*
 
-![Views](https://komarev.com/ghpvc/?username=vin6593483&color=000000&style=flat-square&label=VISITOR+COUNT)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvin6593483%2Fvin6593483.github.io&count_bg=%2F%23000000&title_bg=%2F%23555555&icon=&icon_color=%23E7E7E7&title=VISITOR+COUNT&edge_flat=true)
