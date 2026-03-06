@@ -39,3 +39,5 @@
 ---
 *最後更新日期：2026-03-06 by 蝦趴鞋*
 *校稿:猫猫不要堵门口🐈‍⬛*
+
+![Views](https://komarev.com/ghpvc/?username=vin6593483&color=000000&style=flat-square&label=VISITOR+COUNT)
