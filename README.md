@@ -2,7 +2,6 @@
 
 這裡是 **逢甲大學通訊工程系** 的計概學習紀錄。本倉庫彙整了大一上至大一下的所有 C++ 程式實作，包含詳細的原始碼註解與邏輯說明，我保證此站程式碼皆為本人實作。
 
-
 ---
 
 ### 📂 檔案類型導覽
@@ -37,6 +36,7 @@
 | **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW1-3 大數乘法 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E5%A4%A7%E6%95%B8%E4%B9%98%E6%B3%95) | 迴圈、`struct`、大數運算 |
 | **[HW02 (03/05)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305)** | [HW2-1 屬性身高體重](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-1%20%E5%B1%AC%E6%80%A7%E8%BC%B8%E5%87%BA%E8%BA%AB%E9%AB%98%E9%AB%94%E9%87%8D) / [HW2-2 物件練習_開槍](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-2%20%E7%89%A9%E4%BB%B6%E7%B7%B4%E7%BF%92_%E9%96%8B%E6%A7%8D) / [HW2-3 找字機 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E6%89%BE%E5%AD%97%E6%A9%9F) | `class` 封裝、狀態管理、文本解析 |
 | **[HW03 (03/12)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW03_0312)** | [HW3-1 繼承&多型](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW03_0312) | 類別繼承、函式多載 |
+| **[HW04 (03/19)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319)** | [HW4-1 多重繼承](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-1%20%E5%A4%9A%E9%87%8D%E7%B9%BC%E6%89%BF) / [HW4-2 靜態成員](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-2%20%E9%9D%9C%E6%85%8B%E6%88%90%E5%93%A1) | 多重繼承、靜態成員 |
 
 ### 📝 每週小考紀錄
 
