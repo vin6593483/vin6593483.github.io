@@ -31,6 +31,7 @@
 ## 📂 大一下學期 (2026 Spring)
 > 核心重點：物件導向、進階演算法、結構化資料處理。
 
+### 📚 每週作業實作
 | 週次 / 日期 | 實作項目 (點擊跳轉至該作業資料夾) | 技術關鍵字 |
 | :--- | :--- | :--- |
 | **[HW01 (02/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226)** | [HW1-1 階乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-1%E9%9A%8E%E4%B9%98) / [HW1-2 學生成績統整系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-2%20%E5%AD%B8%E7%94%9F%E6%88%90%E7%B8%BE%E7%B5%B1%E6%95%B4%E7%B3%BB%E7%B5%B1) / [HW1-3 大數乘法 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW01_0226/HW1-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E5%A4%A7%E6%95%B8%E4%B9%98%E6%B3%95) | 迴圈、`struct`、大數運算 |
@@ -39,11 +40,15 @@
 | **[HW04 (03/19)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319)** | [HW4-1 多重繼承](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-1%20%E5%A4%9A%E9%87%8D%E7%B9%BC%E6%89%BF) / [HW4-2 靜態成員](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-2%20%E9%9D%9C%E6%85%8B%E6%88%90%E5%93%A1) | 多重繼承、靜態成員 |
 
 ### 📝 每週小考紀錄
-
 | 週次 | 小考項目 (點擊跳轉至該次測驗資料夾) | 核心概念 |
 | :--- | :--- | :--- |
 | **Week 03 (03/12)** | [倉鼠 Bibo 體重控制](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0312_%E5%80%89%E9%BC%A0%20Bibo%20%E9%AB%94%E9%87%8D%E6%8E%A7%E5%88%B6) | 物件封裝、狀態模型 |
 | **Week 04 (03/19)** | [產品加購折扣系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0319_%E7%94%A2%E5%93%81%E5%8A%A0%E8%B3%BC%E6%8A%98%E6%89%A3%E7%B3%BB%E7%B5%B1) | 繼承權限、建構子多載 |
+
+### 🤝 每週課輔實作
+| 週次 | 實作項目 (點擊跳轉至該次實作資料夾) | 核心概念 |
+| :--- | :--- | :--- |
+| **Week 04 (03/19)** | [買票系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E8%AA%B2%E8%BC%94%E9%A1%8C/%E8%AA%B2%E8%BC%94_0319_%E8%B2%B7%E7%A5%A8) | 繼承應用、邏輯分支 |
 
 ---
 *最後更新日期：2026-03-24 by 蝦趴鞋*
