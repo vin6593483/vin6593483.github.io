@@ -39,6 +39,7 @@
 | **[HW02 (03/05)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305)** | [HW2-1 屬性身高體重](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-1%20%E5%B1%AC%E6%80%A7%E8%BC%B8%E5%87%BA%E8%BA%AB%E9%AB%98%E9%AB%94%E9%87%8D) / [HW2-2 物件練習_開槍](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-2%20%E7%89%A9%E4%BB%B6%E7%B7%B4%E7%BF%92_%E9%96%8B%E6%A7%8D) / [HW2-3 找字機 (加分題)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW02_0305/HW2-3%20(%E5%8A%A0%E5%88%86%E9%A1%8C)%E6%89%BE%E5%AD%97%E6%A9%9F) | `class` 封裝、狀態管理、文本解析 |
 | **[HW03 (03/12)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW03_0312)** | [HW3-1 繼承&多型](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW03_0312) | 類別繼承、函式多載 |
 | **[HW04 (03/19)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319)** | [HW4-1 多重繼承](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-1%20%E5%A4%9A%E9%87%8D%E7%B9%BC%E6%89%BF) / [HW4-2 靜態成員](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW04_0319/HW4-2%20%E9%9D%9C%E6%85%8B%E6%88%90%E5%93%A1) | 多重繼承、靜態成員 |
+| **[HW05 (03/26)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW05_0326)** | [HW5-1 數列(運算子多載)](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW05_0326/HW5-1%20%E6%95%B8%E5%88%97(%E9%81%8B%E7%AE%97%E5%AD%90%E5%A4%9A%E8%BC%89)) / [HW5-2 矩陣相乘](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/HW05_0326/HW5-2%20%E7%9F%A9%E9%99%A3%E7%9B%B8%E4%B9%98) | 運算子多載 |
 
 ### 📝 每週小考紀錄
 
@@ -46,15 +47,17 @@
 | :--- | :--- | :--- |
 | **Week 03 (03/12)** | [倉鼠 Bibo 體重控制](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0312_%E5%80%89%E9%BC%A0%20Bibo%20%E9%AB%94%E9%87%8D%E6%8E%A7%E5%88%B6) | 物件封裝、狀態模型 |
 | **Week 04 (03/19)** | [產品加購折扣系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0319_%E7%94%A2%E5%93%81%E5%8A%A0%E8%B3%BC%E6%8A%98%E6%89%A3%E7%B3%BB%E7%B5%B1) | 繼承權限、建構子多載 |
+| **Week 05 (03/26)** | [相機組件價格計算系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0326_%E7%9B%B8%E6%A9%9F%E7%B5%84%E4%BB%B6%E5%83%B9%E6%A0%BC%E8%A8%88%E7%AE%97%E7%B3%BB%E7%B5%B1) | 多重繼承 |
 
 ### 🤝 每週課輔實作
 
 | 週次 | 實作項目 (點擊跳轉至該次實作資料夾) | 核心概念 |
 | :--- | :--- | :--- |
 | **Week 04 (03/19)** | [買票系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E8%AA%B2%E8%BC%94%E9%A1%8C/%E8%AA%B2%E8%BC%94_0319_%E8%B2%B7%E7%A5%A8) | 繼承應用、邏輯分支 |
+| **Week 05 (03/26)** | [電腦配件組裝](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E8%AA%B2%E8%BC%94%E9%A1%8C/%E8%AA%B2%E8%BC%94_0326_%E9%9B%BB%E8%85%A6%E9%85%8D%E4%BB%B6%E7%B5%84%E8%A3%9D) | 多重繼承、電腦配置 |
 
 ---
-*最後更新日期：2026-03-24 by 蝦趴鞋*
+*最後更新日期：2026-03-29 by 蝦趴鞋*
 
 *校稿:猫猫不要堵门口🐈‍⬛*
 
