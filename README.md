@@ -49,7 +49,7 @@
 | **Week 03 (03/12)** | [倉鼠 Bibo 體重控制](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0312_%E5%80%89%E9%BC%A0%20Bibo%20%E9%AB%94%E9%87%8D%E6%8E%A7%E5%88%B6) | 物件封裝、狀態模型 |
 | **Week 04 (03/19)** | [產品加購折扣系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0319_%E7%94%A2%E5%93%81%E5%8A%A0%E8%B3%BC%E6%8A%98%E6%89%A3%E7%B3%BB%E7%B5%B1) | 繼承權限、建構子多載 |
 | **Week 05 (03/26)** | [相機組件價格計算系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0326_%E7%9B%B8%E6%A9%9F%E7%B5%84%E4%BB%B6%E5%83%B9%E6%A0%BC%E8%A8%88%E7%AE%97%E7%B3%BB%E7%B5%B1) | 多重繼承 |
-| **Week 06 (04/02)** | [分數加法系統](https://github.com/vin6593483/vin6593483.github.io/tree/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0402_%E5%8分%E6%95%B8%E5%8A%A0%E6%B3%95%E7%B3%BB%E7%B5%B1) | 運算子多載、分數邏輯 |
+| **Week 06 (04/02)** | [分數加法系統]((https://github.com/vin6593483/vin6593483.github.io/blob/main/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E6%AF%8F%E5%91%A8%E5%B0%8F%E8%80%83%E9%A1%8C/%E5%B0%8F%E8%80%83_0402_%E5%88%86%E6%95%B8%E5%8A%A0%E6%B3%95%E7%B3%BB%E7%B5%B1/%E5%B0%8F%E8%80%83_0402.md)) | 運算子多載、分數邏輯 |
 
 ### 🤝 每週課輔實作
 
